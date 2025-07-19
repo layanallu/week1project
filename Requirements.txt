@@ -1,0 +1,9 @@
+pandas as pd
+numpy as np
+matplotlib
+seaborn 
+plotly
+streamlit
+train_test_split
+LinearRegression
+r2_score
