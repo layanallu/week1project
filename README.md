@@ -8,7 +8,7 @@ This app provides insights into:
 - Top funded sectors and countries  
 - GDP percentage allocation per sector  
 - Sector-wise comparisons  
-- Health expenditure forecasting using machine learning  
+- Expenditure forecasting using machine learning  
 
 ---
 
@@ -60,8 +60,8 @@ The dataset includes information on:
 
 ### 1. Clone the Repository:
 ```bash
-git clone https://github.com/your-username/world-expenditure-dashboard.git
-cd world-expenditure-dashboard
+git clone https://github.com/layanallu/week1project.git
+cd week1project
 ```
 ### 2. Install Dependencies:
 ```bash
