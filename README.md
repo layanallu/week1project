@@ -21,6 +21,9 @@ The dataset includes information on:
 - **Sector**: Area of expenditure (e.g., Health, Education, Military)  
 - **Expenditure (million USD)**: Government spending in million USD  
 - **GDP (%)**: Share of expenditure as a percentage of GDP  
+- **What is GDP?**  
+    GDP (Gross Domestic Product) is the total value of all goods and services produced by a country in a year.  
+    When we say **"expenditure as a % of GDP,"** it shows how much a country spends on a sector relative to its total economy.
 
 ---
 
